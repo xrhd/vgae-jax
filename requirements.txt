@@ -1,0 +1,6 @@
+jax==0.4.19
+jraph==0.0.6.dev0
+dm-haiku==0.0.12
+optax==0.1.7
+networkx==3.2.1
+scikit-learn==1.4.1.post1
